@@ -23,7 +23,7 @@
 // Set these to run example.
 #define FIREBASE_HOST "fir-msg-437f7.firebaseio.com"
 #define FIREBASE_AUTH "Y4F2maRqO60CAULVrhxmXG3uOsUz7rHG4Xk7qyyv"
-#define WIFI_SSID "ktv"
+#define WIFI_SSID "WifiName"
 #define WIFI_PASSWORD "1234@5678"
 
 void setup() {
