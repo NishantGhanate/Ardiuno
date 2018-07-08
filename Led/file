@@ -1,0 +1,3 @@
+red = pulseio.PWMOut(board.D5)
+green = pulseio.PWMOut(board.D6)
+blue = pulseio.PWMOut(board.D3)
