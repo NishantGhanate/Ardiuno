@@ -1,0 +1,15 @@
+https://stackoverflow.com/questions/46762667/firebase-firestore-rest-example
+
+https://stackoverflow.com/questions/41187046/how-to-post-to-a-restful-api-on-an-esp8266-using-authentication/41187641
+
+
+
+
+"https://firestore.googleapis.com/v1beta1/projects/**PROJECT_ID**/databases/(default)/documents/**COLLECTION_ID**?&key=(YOUR API KEY)"
+
+
+HTTPClient http;
+http.addHeader("Content-Type", "application/json");
+auto httpCode = http.POST("rest/vars/set/1/12/999");
+
+
